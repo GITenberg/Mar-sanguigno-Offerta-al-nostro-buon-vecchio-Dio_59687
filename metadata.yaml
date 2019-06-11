@@ -1,11 +1,16 @@
 _repo: Mar-sanguigno-Offerta-al-nostro-buon-vecchio-Dio_59687
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 59687-h/images/cover.jpg
 creator:
   author:
     agent_name: Milanesi, Guido
     gutenberg_agent_id: '50572'
     url: http://www.gutenberg.org/2009/agents/50572
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/59687#Mar-sanguigno-Offerta-al-nostro-buon-vecchio-Dio
 gutenberg_issued: '2019-06-06'
 gutenberg_type: Text
 identifiers:
